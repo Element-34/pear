@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2011-09-17T22:14:02-04:00</updated>
+    <updated>2011-09-20T12:31:54-04:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,17 @@
     </author>
 
     <entry>
+        <title>SaunterPHP 0.1.5 (alpha)</title>
+        <link href="http://element-34.github.com/pear/get/SaunterPHP-0.1.5.tgz" />
+        <id>http://element-34.github.com/pear/get/SaunterPHP-0.1.5.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2011-09-20T16:31:26-04:00</updated>
+        <content>
+            A description goes here
+        </content>
+    </entry>    <entry>
         <title>SaunterPHP 0.1.4 (alpha)</title>
         <link href="http://element-34.github.com/pear/get/SaunterPHP-0.1.4.tgz" />
         <id>http://element-34.github.com/pear/get/SaunterPHP-0.1.4.tgz</id>
