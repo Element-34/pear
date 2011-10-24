@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2011-10-14T15:23:29-04:00</updated>
+    <updated>2011-10-24T13:26:11-04:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,17 @@
     </author>
 
     <entry>
+        <title>PHPWebDriver 0.9.1 (beta)</title>
+        <link href="http://element-34.github.com/pear/get/PHPWebDriver-0.9.1.tgz" />
+        <id>http://element-34.github.com/pear/get/PHPWebDriver-0.9.1.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2011-10-24T13:50:47-04:00</updated>
+        <content>
+            PHP bindings for WebDriver (forked from Facebook) bundled for distribution.
+        </content>
+    </entry>    <entry>
         <title>PHPWebDriver 0.9.0 (beta)</title>
         <link href="http://element-34.github.com/pear/get/PHPWebDriver-0.9.0.tgz" />
         <id>http://element-34.github.com/pear/get/PHPWebDriver-0.9.0.tgz</id>
@@ -18,6 +29,17 @@
         <updated>2011-10-14T19:20:23-04:00</updated>
         <content>
             PHP bindings for WebDriver (forked from Facebook) bundled for distribution.
+        </content>
+    </entry>    <entry>
+        <title>SaunterPHP 0.1.11 (alpha)</title>
+        <link href="http://element-34.github.com/pear/get/SaunterPHP-0.1.11.tgz" />
+        <id>http://element-34.github.com/pear/get/SaunterPHP-0.1.11.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2011-10-24T16:58:24-04:00</updated>
+        <content>
+            A description goes here
         </content>
     </entry>    <entry>
         <title>SaunterPHP 0.1.10 (alpha)</title>
