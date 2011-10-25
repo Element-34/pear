@@ -13,6 +13,10 @@
 
         <a>
             <r>
+                <v>0.9.2</v>
+                <s>beta</s>
+            </r>
+            <r>
                 <v>0.9.1</v>
                 <s>beta</s>
             </r>
@@ -23,6 +27,10 @@
 
         </a>
 
+        <deps>
+            <v>0.9.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}}}</d>
+        </deps>
         <deps>
             <v>0.9.1</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}}}</d>
@@ -44,6 +52,10 @@
         </p>
 
         <a>
+            <r>
+                <v>0.1.12</v>
+                <s>alpha</s>
+            </r>
             <r>
                 <v>0.1.11</v>
                 <s>alpha</s>
@@ -95,6 +107,10 @@
 
         </a>
 
+        <deps>
+            <v>0.1.12</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:4:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:3:{s:4:"name";s:3:"Log";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:6:"1.12.6";}i:2;a:3:{s:4:"name";s:16:"Testing_Selenium";s:7:"channel";s:12:"pear.php.net";s:11:"recommended";s:5:"0.4.3";}i:3;a:3:{s:4:"name";s:12:"PHPWebdriver";s:7:"channel";s:26:"element-34.github.com/pear";s:11:"recommended";s:5:"0.9.2";}}}}</d>
+        </deps>
         <deps>
             <v>0.1.11</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:4:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:3:{s:4:"name";s:3:"Log";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:6:"1.12.6";}i:2;a:3:{s:4:"name";s:16:"Testing_Selenium";s:7:"channel";s:12:"pear.php.net";s:11:"recommended";s:5:"0.4.3";}i:3;a:3:{s:4:"name";s:12:"PHPWebdriver";s:7:"channel";s:26:"element-34.github.com/pear";s:11:"recommended";s:5:"0.9.1";}}}}</d>
