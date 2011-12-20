@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0                         http://pear.php.net/dtd/tasks-1.0.xsd                         http://pear.php.net/dtd/package-2.0                         http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PHPWebDriver</name>
+ <channel>element-34.github.com/pear</channel>
+ <summary>PHP bindings for WebDriver (forked from Facebook)</summary>
+ <description>PHP bindings for WebDriver (forked from Facebook) bundled for distribution.</description>
+ <lead>
+  <name>Adam Goucher</name>
+  <user>adamgoucher</user>
+  <email>adam@element34.ca</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-12-20</date>
+ <time>05:22:02</time>
+ <version>
+  <release>0.9.5</release>
+  <api>0.9.5</api>
+ </version>
+ <stability>
+  <release>beta</release>
+  <api>beta</api>
+ </stability>
+ <license>Apache 2</license>
+ <notes>
+Some notes go here
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="e45bbe86c1194482a5795ec5ba1ec76f" name="PHPWebDriver/__init__.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a0f2e1dcd538d022eede819174fc60de" name="PHPWebDriver/WebDriver.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="f42b1e7ac46e81758441f11ca14ed12c" name="PHPWebDriver/WebDriverActionChains.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="2b5206c6bd5559d84804a31218d35d34" name="PHPWebDriver/WebDriverBase.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1c8e0bbd23ce2f78d911ea5ff3d9b8fe" name="PHPWebDriver/WebDriverContainer.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="9e44e4dd60b652e290b9828127f22f30" name="PHPWebDriver/WebDriverElement.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="75f6365d850cc1bdc07eea10c2213d8c" name="PHPWebDriver/WebDriverEnvironment.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="0700673cf05746fd21fc0e781db58198" name="PHPWebDriver/WebDriverExceptions.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="763a2418c98b362b797bdf6615e818fa" name="PHPWebDriver/WebDriverSession.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="7f8acccfa4e17706c6bed2923efbcccc" name="PHPWebDriver/WebDriverSimpleItem.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="9cdf7ff6f7d97e11cc6b3600b160f5b0" name="PHPWebDriver/WebDriverWait.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.7</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.2</min>
+   </pearinstaller>
+   <package>
+    <name>PHPUnit</name>
+    <channel>pear.phpunit.de</channel>
+    <min>3.5.15</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>
