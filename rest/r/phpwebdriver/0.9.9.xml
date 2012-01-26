@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/phpwebdriver">PHPWebDriver</p>
+    <c>element-34.github.com/pear</c>
+    <v>0.9.9</v>
+    <st>beta</st>
+    <l>Apache 2</l>
+    <m>adamgoucher</m>
+    <s>PHP bindings for WebDriver (forked from Facebook)</s>
+    <d>PHP bindings for WebDriver (forked from Facebook) bundled for distribution.</d>
+    <da>2012-01-26 23:27:04</da>
+    <n>
+Some notes go here
+ </n>
+    <f>6974</f>
+    <g>http://element-34.github.com/pear/get/PHPWebDriver-0.9.9</g>
+    <x xlink:href="package.0.9.9.xml"/>
+</r>
