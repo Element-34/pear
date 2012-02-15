@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0                         http://pear.php.net/dtd/tasks-1.0.xsd                         http://pear.php.net/dtd/package-2.0                         http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PHPWebDriver</name>
+ <channel>element-34.github.com/pear</channel>
+ <summary>PHP bindings for WebDriver (forked from Facebook)</summary>
+ <description>PHP bindings for WebDriver (forked from Facebook) bundled for distribution.</description>
+ <lead>
+  <name>Adam Goucher</name>
+  <user>adamgoucher</user>
+  <email>adam@element34.ca</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-02-15</date>
+ <time>20:20:21</time>
+ <version>
+  <release>0.9.10</release>
+  <api>0.9.10</api>
+ </version>
+ <stability>
+  <release>beta</release>
+  <api>beta</api>
+ </stability>
+ <license>Apache 2</license>
+ <notes>
+Some notes go here
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="df920059b1a801f51677149441363a1d" name="PHPWebDriver/__init__.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a0f2e1dcd538d022eede819174fc60de" name="PHPWebDriver/WebDriver.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="b8eae3e19387a20eaa53fc238989b1d7" name="PHPWebDriver/WebDriverActionChains.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="d2127f2c4869ef1e9967c956b74f4486" name="PHPWebDriver/WebDriverBase.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="50a666f18d8142d05989378dcd96bcfa" name="PHPWebDriver/WebDriverContainer.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="112d83946e7bc7a18d2f2cb1321c2db2" name="PHPWebDriver/WebDriverElement.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="75f6365d850cc1bdc07eea10c2213d8c" name="PHPWebDriver/WebDriverEnvironment.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a090fae142dec5926efd6b4ad8d0faf4" name="PHPWebDriver/WebDriverExceptions.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1146ea2fbfeac2c3459908e2455ba3d2" name="PHPWebDriver/WebDriverKeys.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1ae7b575184f5fdebf405f40abb36c60" name="PHPWebDriver/WebDriverProxy.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="cb9c8cde7c842613f8ece0042ff0465d" name="PHPWebDriver/WebDriverSession.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="7f8acccfa4e17706c6bed2923efbcccc" name="PHPWebDriver/WebDriverSimpleItem.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="3971d354359b27a96e027b39e3fcc368" name="PHPWebDriver/WebDriverWait.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.7</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.2</min>
+   </pearinstaller>
+   <package>
+    <name>PHPUnit</name>
+    <channel>pear.phpunit.de</channel>
+    <min>3.5.15</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>
