@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>Requests</n>
+<c>element-34.github.com/pear</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>ISC</l>
+<s>A HTTP library written in PHP, for human beings.</s>
+<d>A HTTP library written in PHP, for human beings.</d>
+<r xlink:href="/rest/r/requests" />
+</p>
