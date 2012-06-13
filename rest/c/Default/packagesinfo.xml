@@ -181,6 +181,10 @@
 
         <a>
             <r>
+                <v>1.0.2</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>1.0.1</v>
                 <s>stable</s>
             </r>
@@ -279,6 +283,10 @@
 
         </a>
 
+        <deps>
+            <v>1.0.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:6:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:3:{s:4:"name";s:3:"Log";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:6:"1.12.6";}i:2;a:3:{s:4:"name";s:16:"Testing_Selenium";s:7:"channel";s:12:"pear.php.net";s:11:"recommended";s:5:"0.4.3";}i:3;a:2:{s:4:"name";s:12:"PHPWebDriver";s:3:"uri";s:57:"http://element-34.github.com/pear/get/PHPWebDriver-0.9.11";}i:4;a:2:{s:4:"name";s:18:"PHPBrowserMobProxy";s:3:"uri";s:62:"http://element-34.github.com/pear/get/PHPBrowserMobProxy-1.0.1";}i:5;a:2:{s:4:"name";s:8:"Requests";s:3:"uri";s:52:"http://element-34.github.com/pear/get/Requests-1.7.0";}}}}</d>
+        </deps>
         <deps>
             <v>1.0.1</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:6:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:3:{s:4:"name";s:3:"Log";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:6:"1.12.6";}i:2;a:3:{s:4:"name";s:16:"Testing_Selenium";s:7:"channel";s:12:"pear.php.net";s:11:"recommended";s:5:"0.4.3";}i:3;a:2:{s:4:"name";s:12:"PHPWebDriver";s:3:"uri";s:57:"http://element-34.github.com/pear/get/PHPWebDriver-0.9.11";}i:4;a:2:{s:4:"name";s:18:"PHPBrowserMobProxy";s:3:"uri";s:62:"http://element-34.github.com/pear/get/PHPBrowserMobProxy-1.0.0";}i:5;a:2:{s:4:"name";s:8:"Requests";s:3:"uri";s:52:"http://element-34.github.com/pear/get/Requests-1.7.0";}}}}</d>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2012-06-13T10:31:27-04:00</updated>
+    <updated>2012-06-13T10:51:25-04:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -172,6 +172,17 @@
         <updated>2012-06-11T02:33:08-04:00</updated>
         <content>
             A HTTP library written in PHP, for human beings.
+        </content>
+    </entry>    <entry>
+        <title>SaunterPHP 1.0.2 (stable)</title>
+        <link href="http://element-34.github.com/pear/get/SaunterPHP-1.0.2.tgz" />
+        <id>http://element-34.github.com/pear/get/SaunterPHP-1.0.2.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2012-06-13T14:50:59-04:00</updated>
+        <content>
+            A description goes here
         </content>
     </entry>    <entry>
         <title>SaunterPHP 1.0.1 (stable)</title>
