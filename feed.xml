@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2012-06-13T10:06:44-04:00</updated>
+    <updated>2012-06-13T10:31:27-04:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
