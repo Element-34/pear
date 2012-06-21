@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0                         http://pear.php.net/dtd/tasks-1.0.xsd                         http://pear.php.net/dtd/package-2.0                         http://pear.php.net/dtd/package-2.0.xsd">
+ <name>SaunterPHP</name>
+ <channel>element-34.github.com/pear</channel>
+ <summary>An opinionated Selenium based automation framework</summary>
+ <description>A description goes here</description>
+ <lead>
+  <name>Adam Goucher</name>
+  <user>adamgoucher</user>
+  <email>adam@element34.ca</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-06-21</date>
+ <time>02:32:14</time>
+ <version>
+  <release>1.0.3</release>
+  <api>1.0.3</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>Apache 2</license>
+ <notes>
+Some notes go here
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="9dfb8c6b31e0e0591b33edba4b88d7b8" name="SaunterPHP/Defaults/conf/saucelabs.inc.default" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="91499bcdba5d684d627049205e6dfe23" name="SaunterPHP/Defaults/conf/saunter.inc.default" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1266b94cdbd1aa22e8292ed894879093" name="SaunterPHP/Defaults/phpunit.xml" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="683e1a62dc14b1f1483829cc7da8d228" name="SaunterPHP/Framework/Bindings/SaunterRemoteControl.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="98a6f9335fd081b5e2bbf399c8f0feac" name="SaunterPHP/Framework/Bindings/SaunterWebDriver.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="146acb6db5b7749d5897f23c6e34498b" name="SaunterPHP/Framework/Listeners/StatusListener.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="e0b37f5e3f38a48ad1b7a1d017fb52e6" name="SaunterPHP/Framework/PO/RemoteControl/Page.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="d536b8aaf82cf9fe88a583977e84bcf9" name="SaunterPHP/Framework/PO/WebDriver/Page.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="820feadaf1e2969e3c3697ba891b83b0" name="SaunterPHP/Framework/TestCase/RemoteControl.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="5900aa267ea83c9bd86daaa69cc7435a" name="SaunterPHP/Framework/TestCase/WebDriver.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="7a7000dffcbaf8de1b993e2e79bde633" name="SaunterPHP/Framework/Providers/CSV.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="e6db1bd30da4ebac68cf83f80b601456" name="SaunterPHP/Framework/Generators.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="ea03fbcea96abf10568d2c0ddf07c5ae" name="SaunterPHP/Framework/SeleniumConnection.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="737d3d1b96ec7e7d8b982ec52fd14667" name="SaunterPHP/Framework/SuiteIdentifier.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="384aa4641029b0c3ac85d8ad1604c11d" name="SaunterPHP/Framework/Exception.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="56c5b4e188597093cf45911a26baf67e" name="SaunterPHP/Location.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="f3f8ead5440d1c311b45be065d135d90" name="LICENSE" role="doc" />
+   <file baseinstalldir="/" md5sum="30d1cc6be4fa8265ca1ec19af536c43d" name="saunter.php" role="script">
+    <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+    <tasks:replace from="@php_bin@" to="php_bin" type="pear-config" />
+    <tasks:replace from="@php_dir@" to="php_dir" type="pear-config" />
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.7</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.2</min>
+   </pearinstaller>
+   <package>
+    <name>PHPUnit</name>
+    <channel>pear.phpunit.de</channel>
+    <min>3.5.15</min>
+   </package>
+   <package>
+    <name>Log</name>
+    <channel>pear.php.net</channel>
+    <min>1.12.6</min>
+   </package>
+   <package>
+    <name>Testing_Selenium</name>
+    <channel>pear.php.net</channel>
+    <recommended>0.4.3</recommended>
+   </package>
+   <package>
+    <name>PHPWebDriver</name>
+    <uri>http://element-34.github.com/pear/get/PHPWebDriver-0.9.12</uri>
+   </package>
+   <package>
+    <name>PHPBrowserMobProxy</name>
+    <uri>http://element-34.github.com/pear/get/PHPBrowserMobProxy-1.0.1</uri>
+   </package>
+   <package>
+    <name>Requests</name>
+    <uri>http://element-34.github.com/pear/get/Requests-1.7.0</uri>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="saunter.php" name="saunter.php" />
+  </filelist>
+ </phprelease>
+</package>
