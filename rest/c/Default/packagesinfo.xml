@@ -13,6 +13,10 @@
 
         <a>
             <r>
+                <v>1.0.2</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>1.0.1</v>
                 <s>stable</s>
             </r>
@@ -27,6 +31,10 @@
 
         </a>
 
+        <deps>
+            <v>1.0.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:2:{s:4:"name";s:8:"Requests";s:3:"uri";s:52:"http://element-34.github.com/pear/get/Requests-1.7.1";}}}}</d>
+        </deps>
         <deps>
             <v>1.0.1</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:6:"5.3.10";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}i:1;a:2:{s:4:"name";s:8:"Requests";s:3:"uri";s:52:"http://element-34.github.com/pear/get/Requests-1.7.0";}}}}</d>
@@ -52,6 +60,10 @@
         </p>
 
         <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
             <r>
                 <v>0.9.12</v>
                 <s>beta</s>
@@ -103,6 +115,10 @@
 
         </a>
 
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}}}</d>
+        </deps>
         <deps>
             <v>0.9.12</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.7";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.2";}s:7:"package";a:3:{s:4:"name";s:7:"PHPUnit";s:7:"channel";s:15:"pear.phpunit.de";s:3:"min";s:6:"3.5.15";}}}</d>

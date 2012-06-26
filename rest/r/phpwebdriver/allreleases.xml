@@ -3,6 +3,10 @@
     <p>PHPWebDriver</p>
     <c>element-34.github.com/pear</c>
     <r>
+        <v>1.0.0</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>0.9.12</v>
         <s>beta</s>
     </r>
