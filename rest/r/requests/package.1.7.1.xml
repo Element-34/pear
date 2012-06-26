@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Requests</name>
+ <channel>element-34.github.com/pear</channel>
+ <summary>A HTTP library written in PHP, for human beings.</summary>
+ <description>A HTTP library written in PHP, for human beings.</description>
+ <lead>
+  <name>Ryan Mccue</name>
+  <user>rmccue</user>
+  <email>me plus pear at ryanmccue dot info</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-06-26</date>
+ <time>00:36:34</time>
+ <version>
+  <release>1.7.1</release>
+  <api>1.7.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license filesource="LICENSE" uri="https://github.com/rmccue/Requests/blob/master/LICENSE">ISC</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="91a2af156a41767cc66e0964833840d6" name="Requests/Auth/Basic.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="51e56e878cbb564ab852c978fb35fcd0" name="Requests/Exception/HTTP/400.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="3b2ab80eb9cbfd87baa23fc1648e9940" name="Requests/Exception/HTTP/401.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="60f859d55150da0b0a7a959ac9f347d6" name="Requests/Exception/HTTP/402.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="bcd160e8f70dc76ffbbf6b33b7fe31df" name="Requests/Exception/HTTP/403.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1ed416cc6311835900857973f8923c4d" name="Requests/Exception/HTTP/404.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="dd38d182de6d21b2d2ac18b381adf97f" name="Requests/Exception/HTTP/405.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="4bc8cb6cef688c729edc3990220006ac" name="Requests/Exception/HTTP/406.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="c2c817e9f5d8768bbde4d66a26e6c6b5" name="Requests/Exception/HTTP/407.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="403e3164844958c5144f98ecc8b77689" name="Requests/Exception/HTTP/408.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="995a1dc469e67e2a3d0b8f9bebfea9b6" name="Requests/Exception/HTTP/409.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="71be4f3437dfbadda52f38582184e19b" name="Requests/Exception/HTTP/410.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="27a552a1e4160c4df61b2eca5a604796" name="Requests/Exception/HTTP/411.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="25b88449dcb7a1a83dd906378aa556c7" name="Requests/Exception/HTTP/412.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="e9963cc15dc99059b7d9ff584c17bfd8" name="Requests/Exception/HTTP/413.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="bca65d55e2409ef6a5291ed8e6a12368" name="Requests/Exception/HTTP/414.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="0258cc0fb05462ea8f11ccaea34a55c3" name="Requests/Exception/HTTP/415.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="f931824e39e39617c9aac661804478f8" name="Requests/Exception/HTTP/416.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="4270026a1b8e684f5ec0635c47201c23" name="Requests/Exception/HTTP/417.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="e7b4b07ef78246b212455a560832d15e" name="Requests/Exception/HTTP/418.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="e30b0ba25ab6490f86f522bf07b974b7" name="Requests/Exception/HTTP/428.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="86df59d7a025971a8f3bba08d4181b0e" name="Requests/Exception/HTTP/429.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="6929d5ba586f1148c2f7c243c01207fd" name="Requests/Exception/HTTP/431.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="c0afa9c66b6d830a094815f2124dffda" name="Requests/Exception/HTTP/500.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="650cdab83034f22d3fe803f5d791a835" name="Requests/Exception/HTTP/501.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="7cc83a6c80cf7af9d5217b17fb47ff69" name="Requests/Exception/HTTP/502.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="3906f7520861c39f43f46000d45554b4" name="Requests/Exception/HTTP/503.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="02d76d8cccaa446293201112908a2aa5" name="Requests/Exception/HTTP/504.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="8e5d4109053303e65b2f4364c1ac12de" name="Requests/Exception/HTTP/505.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="27a552a1e4160c4df61b2eca5a604796" name="Requests/Exception/HTTP/411.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="53e024c7f581e34a82bf20aa274a9e6a" name="Requests/Exception/HTTP/Unknown.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="00ee2358cc1cdf6e30171b6a159385bb" name="Requests/Exception/HTTP.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="84cd112896ee3d100e71b303a3b2eb44" name="Requests/Response/Headers.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="b88c673c697e6bfa197db3127f7d0987" name="Requests/Transport/cURL.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="6a60e2accf0bc35bc6127283a6aed985" name="Requests/Transport/fsockopen.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="3197d2529dd957b2acc3944f5bfcd64a" name="Requests/Auth.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="879bac9efa180085ab33e90e1acc5249" name="Requests/Exception.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="76ffe967b6748b4a0b11bfb614c7a661" name="Requests/Hooks.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="90bb8712c81512cbbe5ce050f07542f0" name="Requests/IDNAEncoder.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="09f6853ee80084ed33e11a8af5099cdb" name="Requests/IPv6.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="859fc4f129073f7dad46be135d4171ed" name="Requests/IRI.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="44031d23e90259dd17fc77138e70cb3e" name="Requests/Response.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="c61d3f352d1c187fbed4f70ac05c0b56" name="Requests/Transport.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="cea62be7559dd7094629b925009f8d5a" name="Requests.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>

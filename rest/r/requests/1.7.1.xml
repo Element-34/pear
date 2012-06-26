@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/requests">Requests</p>
+    <c>element-34.github.com/pear</c>
+    <v>1.7.1</v>
+    <st>stable</st>
+    <l>ISC</l>
+    <m>rmccue</m>
+    <s>A HTTP library written in PHP, for human beings.</s>
+    <d>A HTTP library written in PHP, for human beings.</d>
+    <da>2012-06-26 00:36:34</da>
+    <n>
+-
+ </n>
+    <f>25766</f>
+    <g>http://element-34.github.com/pear/get/Requests-1.7.1</g>
+    <x xlink:href="package.1.7.1.xml"/>
+</r>
