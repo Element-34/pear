@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0                         http://pear.php.net/dtd/tasks-1.0.xsd                         http://pear.php.net/dtd/package-2.0                         http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PHPHARchive</name>
+ <channel>element-34.github.com/pear</channel>
+ <summary>PHP Client got poking HTTP Archive (HAR) files</summary>
+ <description>PHP Client got poking HTTP Archive (HAR) files.</description>
+ <lead>
+  <name>Adam Goucher</name>
+  <user>adamgoucher</user>
+  <email>adam@element34.ca</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-06-29</date>
+ <time>18:01:24</time>
+ <version>
+  <release>1.3.0</release>
+  <api>1.3.0</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>Apache 2</license>
+ <notes>
+Some notes go here
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="4aa752d9b0b0f3ad8a7b791beaf949e0" name="PHPHARchive/Cache.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="ffbdb27c063198143ecb34b8160041e1" name="PHPHARchive/Content.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1f357733ee4c0cdccaddf6caced6bcd3" name="PHPHARchive/Cookie.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a644f2f8447f714ad09624ab0e30803d" name="PHPHARchive/Entry.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="2dd178737bb62c4ac5b92a8485f7a0c1" name="PHPHARchive/EntryTimings.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a648751cccbad44359de6159fbdd8483" name="PHPHARchive/Exceptions.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="bc4796a103b5ad3fddd79e05c2734152" name="PHPHARchive/HAR.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="cdcaf85bf95bd82c1c36dd09c159a7bb" name="PHPHARchive/Header.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="2934e16a5487af23186f616adef5cc79" name="PHPHARchive/Page.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="0cf754cb5a2526f9554b06d00eca9a27" name="PHPHARchive/QueryString.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="94096e2ef4d180882d310c4df3159bbe" name="PHPHARchive/Request.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="d85fe5e5a7ebc9d6ed3a6b0974270dd6" name="PHPHARchive/Response.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.2</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>
