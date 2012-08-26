@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2012-07-09T14:25:03-04:00</updated>
+    <updated>2012-08-26T16:09:32-04:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -95,6 +95,17 @@
         <updated>2012-06-28T03:09:17-04:00</updated>
         <content>
             PHP Client got poking HTTP Archive (HAR) files.
+        </content>
+    </entry>    <entry>
+        <title>PHPWebDriver 1.1.0 (stable)</title>
+        <link href="http://element-34.github.com/pear/get/PHPWebDriver-1.1.0.tgz" />
+        <id>http://element-34.github.com/pear/get/PHPWebDriver-1.1.0.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2012-08-26T20:08:54-04:00</updated>
+        <content>
+            PHP bindings for WebDriver (forked from Facebook) bundled for distribution.
         </content>
     </entry>    <entry>
         <title>PHPWebDriver 1.0.0 (stable)</title>
