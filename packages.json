@@ -1,0 +1,1520 @@
+{
+    "pear-element-34\/PHPBrowserMobProxy": {
+        "versions": {
+            "1.0.2": {
+                "name": "pear-element-34\/PHPBrowserMobProxy",
+                "description": "BrowserMob Proxy client",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPBrowserMobProxy-1.0.2.tgz"
+                },
+                "version": "1.0.2",
+                "time": "2012-06-26T00:40:29+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPBrowserMobProxy\/Client.php"
+                    ]
+                }
+            },
+            "1.0.1": {
+                "name": "pear-element-34\/PHPBrowserMobProxy",
+                "description": "BrowserMob Proxy client",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPBrowserMobProxy-1.0.1.tgz"
+                },
+                "version": "1.0.1",
+                "time": "2012-06-13T14:06:14+00:00",
+                "require": {
+                    "php": ">=5.3.10",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPBrowserMobProxy\/Client.php"
+                    ]
+                }
+            },
+            "1.0.0": {
+                "name": "pear-element-34\/PHPBrowserMobProxy",
+                "description": "BrowserMob Proxy client",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPBrowserMobProxy-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2012-06-12T01:13:41+00:00",
+                "require": {
+                    "php": ">=5.3.10",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPBrowserMobProxy\/Client.php"
+                    ]
+                }
+            },
+            "0.1.0": {
+                "name": "pear-element-34\/PHPBrowserMobProxy",
+                "description": "BrowserMob Proxy client",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPBrowserMobProxy-0.1.0.tgz"
+                },
+                "version": "0.1.0",
+                "time": "2012-02-14T16:23:52+00:00",
+                "require": {
+                    "php": ">=5.3.10",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPBrowserMobProxy\/Client.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-element-34\/PHPBrowserMobProxy",
+        "description": "BrowserMob Proxy client",
+        "maintainers": [
+            {
+                "name": "Adam Goucher",
+                "email": "adam@element34.ca",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-element-34\/PHPHARchive": {
+        "versions": {
+            "1.3.0": {
+                "name": "pear-element-34\/PHPHARchive",
+                "description": "PHP Client got poking HTTP Archive (HAR) files",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPHARchive-1.3.0.tgz"
+                },
+                "version": "1.3.0",
+                "time": "2012-06-29T18:01:24+00:00",
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPHARchive"
+                    ]
+                }
+            },
+            "1.2.0": {
+                "name": "pear-element-34\/PHPHARchive",
+                "description": "PHP Client got poking HTTP Archive (HAR) files",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPHARchive-1.2.0.tgz"
+                },
+                "version": "1.2.0",
+                "time": "2012-06-29T16:26:17+00:00",
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPHARchive"
+                    ]
+                }
+            },
+            "1.1.0": {
+                "name": "pear-element-34\/PHPHARchive",
+                "description": "PHP Client got poking HTTP Archive (HAR) files",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPHARchive-1.1.0.tgz"
+                },
+                "version": "1.1.0",
+                "time": "2012-06-29T15:34:56+00:00",
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPHARchive"
+                    ]
+                }
+            },
+            "1.0.0": {
+                "name": "pear-element-34\/PHPHARchive",
+                "description": "PHP Client got poking HTTP Archive (HAR) files",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPHARchive-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2012-06-28T03:09:17+00:00",
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPHARchive"
+                    ]
+                }
+            }
+        },
+        "name": "pear-element-34\/PHPHARchive",
+        "description": "PHP Client got poking HTTP Archive (HAR) files",
+        "maintainers": [
+            {
+                "name": "Adam Goucher",
+                "email": "adam@element34.ca",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-element-34\/PHPWebDriver": {
+        "versions": {
+            "1.2.0": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-1.2.0.tgz"
+                },
+                "version": "1.2.0",
+                "time": "2012-09-13T02:44:11+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "PHPWebDriver"
+                    }
+                }
+            },
+            "1.1.0": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-1.1.0.tgz"
+                },
+                "version": "1.1.0",
+                "time": "2012-08-26T20:08:54+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "4": "PHPWebDriver"
+                    }
+                }
+            },
+            "1.0.0": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2012-06-26T00:44:45+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.12": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.12.tgz"
+                },
+                "version": "0.9.12",
+                "time": "2012-06-21T02:27:49+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.11": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.11.tgz"
+                },
+                "version": "0.9.11",
+                "time": "2012-06-05T00:57:49+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.10": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.10.tgz"
+                },
+                "version": "0.9.10",
+                "time": "2012-02-15T20:20:21+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.9": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.9.tgz"
+                },
+                "version": "0.9.9",
+                "time": "2012-01-26T23:27:04+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.8": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.8.tgz"
+                },
+                "version": "0.9.8",
+                "time": "2012-01-25T04:34:56+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.7": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.7.tgz"
+                },
+                "version": "0.9.7",
+                "time": "2011-12-27T04:44:47+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.6": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.6.tgz"
+                },
+                "version": "0.9.6",
+                "time": "2011-12-26T14:24:04+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.5": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.5.tgz"
+                },
+                "version": "0.9.5",
+                "time": "2011-12-20T05:22:02+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.4": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.4.tgz"
+                },
+                "version": "0.9.4",
+                "time": "2011-12-09T19:52:56+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.2": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.2.tgz"
+                },
+                "version": "0.9.2",
+                "time": "2011-10-25T01:45:52+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.1": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.1.tgz"
+                },
+                "version": "0.9.1",
+                "time": "2011-10-24T13:50:47+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            },
+            "0.9.0": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-0.9.0.tgz"
+                },
+                "version": "0.9.0",
+                "time": "2011-10-14T19:20:23+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPWebDriver"
+                    ]
+                }
+            }
+        },
+        "name": "pear-element-34\/PHPWebDriver",
+        "description": "PHP bindings for WebDriver (forked from Facebook)",
+        "maintainers": [
+            {
+                "name": "Adam Goucher",
+                "email": "adam@element34.ca",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-element-34\/Requests": {
+        "versions": {
+            "1.7.1": {
+                "name": "pear-element-34\/Requests",
+                "description": "A HTTP library written in PHP, for human beings.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/Requests-1.7.1.tgz"
+                },
+                "version": "1.7.1",
+                "time": "2012-06-26T00:36:34+00:00",
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "authors": [
+                    {
+                        "name": "Ryan Mccue",
+                        "email": "me plus pear at ryanmccue dot info",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "Requests",
+                        "43": "Requests.php"
+                    }
+                }
+            },
+            "1.7.0": {
+                "name": "pear-element-34\/Requests",
+                "description": "A HTTP library written in PHP, for human beings.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/Requests-1.7.0.tgz"
+                },
+                "version": "1.7.0",
+                "time": "2012-06-11T02:33:08+00:00",
+                "require": {
+                    "php": ">=5.2.0"
+                },
+                "authors": [
+                    {
+                        "name": "Ryan Mccue",
+                        "email": "me plus pear at ryanmccue dot info",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "Requests",
+                        "43": "Requests.php"
+                    }
+                }
+            }
+        },
+        "name": "pear-element-34\/Requests",
+        "description": "A HTTP library written in PHP, for human beings.",
+        "maintainers": [
+            {
+                "name": "Ryan Mccue",
+                "email": "me plus pear at ryanmccue dot info",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-element-34\/SaunterPHP": {
+        "versions": {
+            "1.0.6": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.6.tgz"
+                },
+                "version": "1.0.6",
+                "time": "2012-08-27T15:47:14+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "1.0.5": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.5.tgz"
+                },
+                "version": "1.0.5",
+                "time": "2012-06-29T18:08:58+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "1.0.4": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.4.tgz"
+                },
+                "version": "1.0.4",
+                "time": "2012-06-26T00:47:20+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "1.0.3": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.3.tgz"
+                },
+                "version": "1.0.3",
+                "time": "2012-06-21T02:32:14+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "1.0.2": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.2.tgz"
+                },
+                "version": "1.0.2",
+                "time": "2012-06-13T14:50:59+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "1.0.1": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.1.tgz"
+                },
+                "version": "1.0.1",
+                "time": "2012-06-12T16:54:55+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.23": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.23.tgz"
+                },
+                "version": "0.1.23",
+                "time": "2012-06-05T02:15:48+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.22": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.22.tgz"
+                },
+                "version": "0.1.22",
+                "time": "2012-02-15T21:50:15+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.21": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.21.tgz"
+                },
+                "version": "0.1.21",
+                "time": "2012-01-31T01:25:46+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.20": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.20.tgz"
+                },
+                "version": "0.1.20",
+                "time": "2011-12-28T03:56:15+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.19": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.19.tgz"
+                },
+                "version": "0.1.19",
+                "time": "2011-12-27T21:58:11+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.18": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.18.tgz"
+                },
+                "version": "0.1.18",
+                "time": "2011-12-27T21:15:09+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.17": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.17.tgz"
+                },
+                "version": "0.1.17",
+                "time": "2011-12-27T04:48:16+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.16": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.16.tgz"
+                },
+                "version": "0.1.16",
+                "time": "2011-12-26T15:48:23+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.15": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.15.tgz"
+                },
+                "version": "0.1.15",
+                "time": "2011-12-10T05:27:46+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.14": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.14.tgz"
+                },
+                "version": "0.1.14",
+                "time": "2011-12-09T19:53:02+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.12": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.12.tgz"
+                },
+                "version": "0.1.12",
+                "time": "2011-10-25T01:52:57+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*",
+                    "pear-element-34\/PHPWebdriver": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.11": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.11.tgz"
+                },
+                "version": "0.1.11",
+                "time": "2011-10-24T16:58:24+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*",
+                    "pear-element-34\/PHPWebdriver": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.10": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.10.tgz"
+                },
+                "version": "0.1.10",
+                "time": "2011-09-30T03:55:26+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.9": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.9.tgz"
+                },
+                "version": "0.1.9",
+                "time": "2011-09-29T03:39:11+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.8": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.8.tgz"
+                },
+                "version": "0.1.8",
+                "time": "2011-09-28T18:30:14+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.7": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.7.tgz"
+                },
+                "version": "0.1.7",
+                "time": "2011-09-26T18:34:30+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.6": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.6.tgz"
+                },
+                "version": "0.1.6",
+                "time": "2011-09-23T15:35:43+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.5": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.5.tgz"
+                },
+                "version": "0.1.5",
+                "time": "2011-09-20T16:31:26+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.4": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.4.tgz"
+                },
+                "version": "0.1.4",
+                "time": "2011-09-18T02:13:34+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.3": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.3.tgz"
+                },
+                "version": "0.1.3",
+                "time": "2011-09-16T18:11:30+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.2": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.2.tgz"
+                },
+                "version": "0.1.2",
+                "time": "2011-09-16T04:23:07+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
+            "0.1.1": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.1.tgz"
+                },
+                "version": "0.1.1",
+                "time": "2011-09-15T03:16:51+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "2": "SaunterPHP"
+                    }
+                }
+            },
+            "0.1.0": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-0.1.0.tgz"
+                },
+                "version": "0.1.0",
+                "time": "2011-09-15T01:56:16+00:00",
+                "require": {
+                    "php": ">=5.2.7",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/PEAR": ">=1.9.4",
+                    "pear-pear\/PEAR_Info": ">=1.9.2"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "2": "SaunterPHP"
+                    }
+                }
+            }
+        },
+        "name": "pear-element-34\/SaunterPHP",
+        "description": "An opinionated Selenium based automation framework",
+        "maintainers": [
+            {
+                "name": "Adam Goucher",
+                "email": "adam@element34.ca",
+                "homepage": ""
+            }
+        ]
+    }
+}
