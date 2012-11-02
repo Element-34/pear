@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://element-34.github.com/pear</id>
-    <updated>2012-11-02T04:12:51+00:00</updated>
+    <updated>2012-11-02T04:54:26+00:00</updated>
     <title>Element 34's PEAR Channel Server Latest Releases</title>
     <link href="http://element-34.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -107,6 +107,19 @@ Some notes go here
             <name>adamgoucher</name>
         </author>
         <updated>2012-06-28T03:09:17+00:00</updated>
+        <content>
+            
+Some notes go here
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHPWebDriver 1.4.1 (stable)</title>
+        <link href="http://element-34.github.com/pear/get/PHPWebDriver-1.4.1.tgz" />
+        <id>http://element-34.github.com/pear/get/PHPWebDriver-1.4.1.tgz</id>
+        <author>
+            <name>adamgoucher</name>
+        </author>
+        <updated>2012-11-02T04:53:20+00:00</updated>
         <content>
             
 Some notes go here
