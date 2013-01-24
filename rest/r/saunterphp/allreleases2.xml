@@ -3,6 +3,11 @@
     <p>SaunterPHP</p>
     <c>element-34.github.com/pear</c>
     <r>
+        <v>1.0.8</v>
+        <s>stable</s>
+        <m>5.3.3</m>
+    </r>
+    <r>
         <v>1.0.7</v>
         <s>stable</s>
         <m>5.3.3</m>
