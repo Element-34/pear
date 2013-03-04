@@ -881,6 +881,34 @@
     },
     "pear-element-34\/SaunterPHP": {
         "versions": {
+            "1.0.11": {
+                "name": "pear-element-34\/SaunterPHP",
+                "description": "An opinionated Selenium based automation framework",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/SaunterPHP-1.0.11.tgz"
+                },
+                "version": "1.0.11",
+                "time": "2013-03-04T15:31:10+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15",
+                    "pear-pear\/Log": ">=1.12.6",
+                    "pear-pear\/Testing_Selenium": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "SaunterPHP"
+                    ]
+                }
+            },
             "1.0.10": {
                 "name": "pear-element-34\/SaunterPHP",
                 "description": "An opinionated Selenium based automation framework",
