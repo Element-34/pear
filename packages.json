@@ -257,6 +257,32 @@
     },
     "pear-element-34\/PHPWebDriver": {
         "versions": {
+            "1.7.0": {
+                "name": "pear-element-34\/PHPWebDriver",
+                "description": "PHP bindings for WebDriver (forked from Facebook)",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPWebDriver-1.7.0.tgz"
+                },
+                "version": "1.7.0",
+                "time": "2013-03-04T15:03:33+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "PHPWebDriver"
+                    }
+                }
+            },
             "1.6.0": {
                 "name": "pear-element-34\/PHPWebDriver",
                 "description": "PHP bindings for WebDriver (forked from Facebook)",
