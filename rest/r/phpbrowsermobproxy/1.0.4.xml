@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/phpbrowsermobproxy">PHPBrowserMobProxy</p>
+    <c>element-34.github.com/pear</c>
+    <v>1.0.4</v>
+    <st>stable</st>
+    <l>Apache 2</l>
+    <m>adamgoucher</m>
+    <s>BrowserMob Proxy client</s>
+    <d>A description goes here</d>
+    <da>2013-03-07 15:46:13</da>
+    <n>
+Some notes go here
+ </n>
+    <f>2138</f>
+    <g>http://element-34.github.com/pear/get/PHPBrowserMobProxy-1.0.4</g>
+    <x xlink:href="package.1.0.4.xml"/>
+</r>
