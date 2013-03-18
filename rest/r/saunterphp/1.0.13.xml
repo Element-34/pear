@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/saunterphp">SaunterPHP</p>
+    <c>element-34.github.com/pear</c>
+    <v>1.0.13</v>
+    <st>stable</st>
+    <l>Apache 2</l>
+    <m>adamgoucher</m>
+    <s>An opinionated Selenium based automation framework</s>
+    <d>A description goes here</d>
+    <da>2013-03-18 20:34:17</da>
+    <n>
+Some notes go here
+ </n>
+    <f>14612</f>
+    <g>http://element-34.github.com/pear/get/SaunterPHP-1.0.13</g>
+    <x xlink:href="package.1.0.13.xml"/>
+</r>
