@@ -1,6 +1,32 @@
 {
     "pear-element-34\/PHPBrowserMobProxy": {
         "versions": {
+            "1.0.5": {
+                "name": "pear-element-34\/PHPBrowserMobProxy",
+                "description": "BrowserMob Proxy client",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/element-34.github.com\/pear\/get\/PHPBrowserMobProxy-1.0.5.tgz"
+                },
+                "version": "1.0.5",
+                "time": "2013-05-27T16:48:33+00:00",
+                "require": {
+                    "php": ">=5.3.3",
+                    "pear-phpunit\/PHPUnit": ">=3.5.15"
+                },
+                "authors": [
+                    {
+                        "name": "Adam Goucher",
+                        "email": "adam@element34.ca",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "PHPBrowserMobProxy\/Client.php"
+                    ]
+                }
+            },
             "1.0.4": {
                 "name": "pear-element-34\/PHPBrowserMobProxy",
                 "description": "BrowserMob Proxy client",
